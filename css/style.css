@@ -19,7 +19,8 @@ body {
 
   .table1{
     color: aliceblue;
-    padding-left : 150px;
+    padding: 15px;
+    text-align: center;
   }
   .btn{
     font-style: italic;
