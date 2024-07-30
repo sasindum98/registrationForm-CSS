@@ -1,0 +1,58 @@
+#Main{
+    color: #270689;
+    background-color: rgba(167, 167, 190, 0.53);
+    text-align: center;
+    font-style: italic;
+}
+body {
+    background-image: url('https://images.unsplash.com/photo-1513569771920-c9e1d31714af?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8fA%3D%3D');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  .P1{
+    color: azure;
+    text-align: center;
+    font-style: italic;
+  }
+
+  .table1{
+    color: aliceblue;
+    padding-left : 150px;
+  }
+  .btn{
+    font-style: italic;
+    background-color: rgb(59, 50, 181);
+    padding: 10px;
+    color: black;
+    font-size: medium;
+    width:100px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .btn:hover {
+    background-color:#270689;
+  }
+  .btn:active{
+    background-color: #170254;
+    border: 1.5px solid black;
+  }
+  .box1{
+    position: relative;
+    left: 20px;
+    top: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #170254;
+  }
+  .box2{
+    position: absolute;
+    left: 400px;
+    top: 500px;
+    width: 100px;
+    height: 100px;
+    background-color: #023f54;
+
+  }
